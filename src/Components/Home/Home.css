@@ -1,0 +1,14 @@
+.body{
+    display: flex;
+    justify-content: flex-start;
+}
+.list{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.bookNumber{
+    font: normal normal normal 15px/20px Lato;
+letter-spacing: 0px;
+color: #9D9D9D;
+}

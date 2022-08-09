@@ -1,0 +1,12 @@
+{
+    "bookdata":[
+        {
+            "id": 28,
+            "bookName": "UX Design",
+            "authorName": "John",
+            "prize": 500.0,
+            "quantity": 1,
+            "bookImage": "../BookImages/UX Design.png"
+        }
+    ]
+}

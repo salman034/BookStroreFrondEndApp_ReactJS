@@ -1,0 +1,14 @@
+table, th, td {
+    border: 1px solid;
+  }
+th{
+    background-color: burlywood;
+}
+
+td{
+    margin: 50px;
+}
+
+.name{
+    margin: 10px;
+}
