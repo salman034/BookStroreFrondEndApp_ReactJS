@@ -29,6 +29,7 @@ class Cart extends Component{
             cartButton: false
         })
         console.log(this.state.coustomerDetails);
+        console.log('hello committed')
         
     }
 
