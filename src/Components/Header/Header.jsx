@@ -77,15 +77,6 @@ function Header(props) {
                 onChange={fetchBooks}
                 />
             </Search>
-            {/* {
-              window.location.pathname === '/home' 
-              ?
-              <div></div>
-              :
-              // <Link to="/home"><Typography color='white'>Home</Typography></Link>
-              
-            } */}
-            
             {/* <Link to="/login"><Typography color='white'>Logout</Typography></Link> */}
             <div className='header-options-container'>
                 <div className='header-option'>
